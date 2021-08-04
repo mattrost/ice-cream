@@ -19,6 +19,9 @@ function Review({ review }) {
             <Typography>
               {review.reviewText}
             </Typography>
+            <Typography>
+              *Insert grocery store price here*
+            </Typography>
           </CardContent>
         </Card>
         <p></p>
